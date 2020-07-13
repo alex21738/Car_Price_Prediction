@@ -7,7 +7,7 @@
 ## Icluded in this Repository:
 - A jupyter notebook file detailing our modeling process
 - A .gitignore file to prevent our very large (1.5 GB) raw data contained in vehicles.csv from being uploaded during our commits
-- The readme file you are currently inspecting
+- The readme file that you are currently inspecting
 
 ## Powerpoint Link
 - https://docs.google.com/presentation/d/1JGZF2IMUqfDn19akrJANM-FFvv2RO5GRXC9nwoKndqg/edit?usp=sharing
