@@ -3,7 +3,7 @@
 - Cleaned our data fiarly extensively (500k to 100k) due to many a high number of missing values
 - Explored realtionships
 - Created dummy variables
-- Modeled
+- Multiple Models
 ## Icluded in this Repository:
 - A jupyter notebook file detailing our modeling process
 - A .gitignore file to prevent our very large (1.5 GB) raw data contained in vehicles.csv from being uploaded during our commits
